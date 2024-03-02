@@ -24,4 +24,4 @@ The modernized version of GPS-Derived Frequency Standard offers the following im
 - A native USB 2.0 serial port on STM32 Black Pill (the STM32 Blue Pill requires an external UART-to-USB converter),
 - A comprehensive VT-100 text console via the USB port for easy configuration and control of the system parameters, and for complete status monitoring (replaces the very basic text console and the Windows software).
 
-For more information on this project (harware, configuration, operation, performance, etc.), please refer to [VE2ZAZ's web page](https://ve2zaz.net/GPS_Std_New/GPS_Std.htm)
+For more information on this project (harware, configuration, operation, performance, etc.), please refer to [VE2ZAZ's web page](https://ve2zaz.net/GPS_Std_Modernized/GPS_Std.htm)
