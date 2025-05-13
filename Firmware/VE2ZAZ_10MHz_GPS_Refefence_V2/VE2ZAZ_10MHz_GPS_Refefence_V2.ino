@@ -501,7 +501,7 @@ void setup()
   lcd.setCursor(0, 0);                                // position the cursor
   lcd.print("VE2ZAZ GPS Reference");                   // Show text between apostrophes
   lcd.setCursor(0, 1);                                // position the cursor
-  lcd.print(" Version 1, 03/2024");                   // Show text between apostrophes
+  lcd.print(" Version 2, 2025/05");                   // Show text between apostrophes
   lcd.setCursor(0, 2);                                // position the cursor
   lcd.print("   Please Wait...");                     // Show text between apostrophes
 }
